@@ -4,7 +4,7 @@
 		"docDate": "26.09.21"
 	},
 	"soldiers" {
-		"soldier": [
+		"soldier": 
 	{
 			"number": "10",
 			"nameofSlack":
@@ -14,6 +14,6 @@
 			
 
 		}
-	]
+	
 }
 }
