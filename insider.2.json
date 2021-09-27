@@ -3,7 +3,7 @@
 		"groupname": "insider",
 		"docDate": "26.09.21"
 	},
-	"soldiers": {
+	"soldiers" {
 		"soldier": {
 			"number": "10",
 			"nameofSlack":
@@ -14,5 +14,5 @@
 
 		}
 	}
-	}
+	
 ]}
